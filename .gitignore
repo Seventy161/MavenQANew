@@ -1,6 +1,8 @@
 # Ignored directories
 .idea/
 out/
+target/
 
 # Ignored files
 *.iml
+*.java
